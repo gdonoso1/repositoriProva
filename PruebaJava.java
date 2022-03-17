@@ -1,6 +1,6 @@
 package prueba1;
 
-int prueba1 = 0;
+int prueba1 = 1;
 
 public class PruebaJava {
 	int a;
