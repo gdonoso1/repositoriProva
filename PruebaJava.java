@@ -1,5 +1,7 @@
 package prueba1;
 
+int prueba1 = 0;
+
 public class PruebaJava {
 	int a;
 	int b;
